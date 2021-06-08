@@ -1,7 +1,7 @@
 # Typing Test Page
 Simple Typing-Tester Website, coded in Javascript.
 
-## [Demo](https://luisoos.github.io/typingtest)   |   [Source Code](https://github.com/luisoos/typingtest/tree/main/Typing%20Test%20Page)
+## [Demo](https://luisoos.github.io/typingtest)   |   [Source Code](https://github.com/luisoos/typingtest/blob/main/assets/main.js)
 
 ### What is this?
 
