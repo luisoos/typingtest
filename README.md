@@ -14,8 +14,8 @@ On this website you can test your typing skills and see the words you tipe - per
 
 ### Change Timer
 
-Change time `seconds: 30,` in main.js, line 47 (in seconds),
-Change `(time === "0:30"` in main.js, line 120 (in Minute:Second).
+- Change time `seconds: 30,` in main.js, line 47 (in seconds),
+- Change `(time === "0:30"` in main.js, line 120 (in Minute:Second).
 
 ---
 
