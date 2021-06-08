@@ -117,7 +117,7 @@ function isTimer(seconds) {
   }
 
   
-  if (time === "1:00" && typingTimer === null) {
+  if (time === "0:30" && typingTimer === null) {
     typingTimer = window.setInterval(() => {
       if (seconds <= 0) {
         window.clearInterval(typingTimer);
